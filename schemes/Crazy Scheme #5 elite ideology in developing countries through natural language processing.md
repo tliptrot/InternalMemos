@@ -15,3 +15,11 @@ Checks
 ### Alternative designs
 
 Look for conservative/liberal ideology in Indian courts and compare outcomes and the states of India
+
+### Information sources
+
+Append survey to arab barometer surveys
+  > less to defent reviewers are very conservative
+  
+  look up karen juscoe
+  look up Michael Ross
