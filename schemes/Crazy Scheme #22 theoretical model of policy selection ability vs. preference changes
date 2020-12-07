@@ -1,0 +1,19 @@
+Dear diary
+
+# Model changes in marginal ability to predict research quality vs. change in outcome preference
+
+1. Feed data is randomized control trials of effectiveness per sector
+
+Change if a new government is one standard deviation more willing to pay for a LAY/DALY/transfer dollar
+Change if a new government is one standard deviation better at guessing which policies are more effecctive
+
+Break it down by policy area. Some areas - education policy, healthcare policy, distribution policy
+
+How to make predictive ability comparable with preferences - one standard deviation difference in preference comparaed to one standard deviation difference in Brier score
+- But then model it at different group aggregation size. Randomly selected groups and stuff. Partisan groups???
+
+Steps
+- Find an political economy grad student to partner with
+- Run the prediction market study independently on Mechanical Turk, gather brier scores and valuation of outcomes
+- Then make models using the brier scores and the preference data. See if the variation is highly affected by policy sector and by aggregation number
+
