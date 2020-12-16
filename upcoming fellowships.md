@@ -1,0 +1,11 @@
+# Applications to do
+
+## Mercatus center general fellowship
+
+- The Adam Smith Fellowship is a one-year, competitive fellowship program for graduate students enrolled in PhD programs at any university and in any discipline including, but not limited to, economics, philosophy, political science, and sociology. Adam Smith Fellows receive a stipend and attend colloquia on the Austrian, Virginia, and Bloomington schools of political economy. It is a total award of up to $10,000 for the year. The application deadline is March 15, 2021.
+
+- The Frédéric Bastiat Fellowship is a one-year, competitive fellowship program for graduate students who are enrolled in master’s, juris doctoral, and doctoral programs from any university and in any discipline including, but not limited to, economics, law, political science, and public policy. Frédéric Bastiat Fellows receive a stipend and attend colloquia on political economy and public policy. It is a total award of up to $5,000 for the year. The application deadline is March 15, 2021.
+
+The Oskar Morgenstern Fellowship is a one-year, competitive fellowship program for students who are enrolled in PhD programs from any university and in any discipline with training in quantitative methods. Oskar Morgenstern Fellows receive a stipend and attend colloquia on utilizing quantitative and empirical techniques to explore key questions and themes advanced by the Austrian, Virginia, and Bloomington schools of political economy. It is a total award of up to $7,000 for the year. The application deadline is March 15, 2021.
+
+- The Don Lavoie Fellowship is a competitive, renewable, and online fellowship program for advanced undergraduates, recent graduates considering graduate school, and early-stage graduate students from any discipline. Don Lavoie Fellows attend a series of online activities, including an online discussion portal and online reading discussion sessions led by various Hayek Program scholars that introduce them to key ideas in the Austrian, Virginia, and Bloomington schools of political economy as well as contemporary work in this tradition. It is a total award of up to $1,250 for the semester. The deadline to apply for the Don Lavoie Fellowship for the fall 2021 semester is April 15, 2021.
