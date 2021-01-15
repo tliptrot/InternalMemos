@@ -1,0 +1,10 @@
+# Problem
+
+What do you include in your regression? Well, you want to include things that are relevant. But that's not quite right, Hans gave you the good paper on this (I need to save the good papers!).
+
+Suppose some variable contains no relationship which could predict the independent variable. I could predict the variable just as well with it or without it. Do I want to include
+that variable in my regression? I think the answer is no.
+
+So maybe we start by doing a split, train test and random forest. Then only test the significant ones in the regression.
+
+This requires proving a null. So we need to assess negative predictive value, which requires a prior. OH NO IT'S BAYES! I can solve that. Can I solve that and convince the academics... maybe, maybe not. 
