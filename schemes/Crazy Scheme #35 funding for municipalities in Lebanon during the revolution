@@ -1,0 +1,14 @@
+# Inspried by Bailey course on regression discontinuity design
+
+Based on this paper in Portugal - https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecpo.12005?casa_token=QBwkINU8l5wAAAAA:n-VcBlVeVn6nK-lAd4xPgQhncf2309xdCZGim9rjTXEOnK9bJkctwhDKmlP14GlOFF1sbQdoSUIUtw
+
+Take the lebanese municipalities
+look at vote share for parties that defected from the government
+assumption - there should be less funding given to municipalities that pass some threshold for defection from the government
+
+Or we might expect greater divergence between the donations to that municipality from the state funding
+
+# Data needs
+- Vote share per municipality per party
+- Disbursements to each municipality
+- a list of the parties that defected toward the revolution
